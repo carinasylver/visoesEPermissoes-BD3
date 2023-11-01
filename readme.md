@@ -1,6 +1,6 @@
 git add README.md
 
-# ✳️ Trabalho Trabalho Visões e Permissões de acesso a dados
+# ✳️ Trabalho Visões e Permissões de acesso a dados
 
 ## 📌 Desenvolvimento no link abaixo
 
