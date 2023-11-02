@@ -1,0 +1,3 @@
+CREATE USER maria WITH PASSWORD '123';
+
+GRANT SELECT ON info_vendas_2023 TO maria;
