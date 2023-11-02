@@ -18,3 +18,5 @@ values (08, 3658, 2, '2017/05/10', '2017/05/30', 7200, 7200, '2017/05/26', 104);
 UPDATE contas_pagar
 SET desconto = valor * 0.20
 WHERE EXTRACT(YEAR FROM data_lancamento) = 2016;
+
+REFRESH MATERIALIZED VIEW info_contas_pagar;
