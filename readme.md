@@ -1,6 +1,6 @@
 git add README.md
 
-✳️ Trabalho Visões e Permissões de acesso a dados
+## ✳️ Trabalho Visões e Permissões de acesso a dados
 
 <div align="center">
 <img width="250px" title="logo-database" src="./img/database.png"/>
